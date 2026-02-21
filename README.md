@@ -1,16 +1,91 @@
-## Hi there 👋
+# Sanskar Tiwari
 
-<!--
-**SaTz010/SaTz010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3500&color=FFFFFF&vCenter=true&width=750&lines=Product-Focused+Developer;Mobile+Applications+%7C+UI%2FUX+%7C+Backend;Building+Scalable+Context-Aware+Systems" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+I am a product-focused developer with experience in building scalable, user-centric mobile applications.  
+My interests lie at the intersection of **mobile systems, cloud-native architectures, and intelligent data processing**, with a strong emphasis on usability and performance.
+
+---
+
+## Focus Areas
+
+- Mobile application development using Flutter  
+- Context-aware systems and intelligent data processing  
+- Serverless and cloud-native architectures  
+- UX-driven product design  
+- Performance and scalability  
+
+---
+
+## Technical Stack
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?size=16&duration=4200&color=AAAAAA&vCenter=true&width=850&lines=Mobile+App+Dev+(flutter);Context-Aware+NLP+Systems;Speech+Recognition;Serverless+AWS;Cloud+Storage;Firebase;PHP;SQL+%2F+MySQL;REST+APIs;Git+%26+GitHub" />
+</p>
+
+
+---
+
+## Highlighted Projects
+
+### AURA — Context-Aware Audio Intelligence System (Ongoing)
+
+AURA is a general-purpose, context-aware audio intelligence system designed to transform unstructured audio into structured, meaningful outputs.
+
+**Project Objectives**
+
+- Record or upload voice-based audio from mobile devices  
+- Apply speech recognition to transcribe audio  
+- Use context-aware natural language processing tailored to user-specified audio contexts  
+- Generate:
+  - Structured summaries  
+  - Key takeaways  
+  - Topic-wise segmentation  
+  - Formatted PDF reports for improved information comprehension  
+
+**Architecture Overview**
+
+- Flutter-based mobile application  
+- Serverless AWS backend for processing and scalability  
+- Cloud-based storage for audio and generated artifacts  
+- API-driven communication between mobile and cloud services  
+
+This project focuses on real-world audio understanding across diverse contexts such as meetings, lectures, and personal notes.
+
+---
+
+### Mobile Photo Capture and Cloud Storage System
+
+A mobile system designed for capturing photos and securely storing them in the cloud.
+
+**Key Features**
+
+- Flutter-based mobile photo capture  
+- Cloud image storage using AWS S3  
+- Secure upload and retrieval  
+- Scalable cloud storage architecture  
+
+---
+
+## GitHub Overview
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satz010&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satz010&layout=compact&theme=dark)
+
+---
+
+## Contact
+
+Email: tiwarisanskar123@gmail.com  
+LinkedIn: https://www.linkedin.com/in/sanskar-tiwari-630590250/
+
+---
+
+Good products are built where engineering discipline meets thoughtful user experience.
