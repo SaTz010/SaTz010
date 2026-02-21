@@ -1,4 +1,4 @@
-# Sanskar Tiwari
+# Sanskar Ananta Tiwari
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3500&color=FFFFFF&vCenter=true&width=750&lines=Product-Focused+Developer;Mobile+Applications+%7C+UI%2FUX+%7C+Backend;Building+Scalable+Context-Aware+Systems" />
@@ -20,15 +20,6 @@ My interests lie at the intersection of **mobile systems, cloud-native architect
 - Serverless and cloud-native architectures  
 - UX-driven product design  
 - Performance and scalability  
-
----
-
-## Technical Stack
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=16&duration=4200&color=AAAAAA&vCenter=true&width=850&lines=Mobile+App+Dev+(flutter);Context-Aware+NLP+Systems;Speech+Recognition;Serverless+AWS;Cloud+Storage;Firebase;PHP;SQL+%2F+MySQL;REST+APIs;Git+%26+GitHub" />
-</p>
-
 
 ---
 
@@ -75,9 +66,7 @@ A mobile system designed for capturing photos and securely storing them in the c
 
 ## GitHub Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satz010&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satz010&layout=compact&theme=dark)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satz010&theme=github_dark)
 
 ---
 
