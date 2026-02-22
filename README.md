@@ -39,14 +39,7 @@ AURA is a general-purpose, context-aware audio intelligence system designed to t
   - Key takeaways  
   - Topic-wise segmentation  
   - Formatted PDF reports for improved information comprehension  
-
-**Architecture Overview**
-
-- Flutter-based mobile application  
-- Serverless AWS backend for processing and scalability  
-- Cloud-based storage for audio and generated artifacts  
-- API-driven communication between mobile and cloud services  
-
+ 
 This project focuses on real-world audio understanding across diverse contexts such as meetings, lectures, and personal notes.
 
 ---
