@@ -1,7 +1,7 @@
 # Sanskar Ananta Tiwari
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3500&color=FFFFFF&vCenter=true&width=750&lines=Product-Focused+Developer;Mobile+Applications+%7C+UI%2FUX+%7C+Backend;Building+Scalable+Context-Aware+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3500&color=36BCF7FF&vCenter=true&width=750&lines=Product-Focused+Developer;Mobile+Applications+%7C+UI%2FUX+%7C+Backend;Building+Scalable+Context-Aware+Systems" />
 </p>
 
 ---
