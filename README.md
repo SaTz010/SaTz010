@@ -25,7 +25,7 @@ My interests lie at the intersection of **mobile systems, cloud-native architect
 
 ## Highlighted Projects
 
-### AURA — Context-Aware Audio Intelligence System (Ongoing)
+### AURA - Context-Aware Audio Intelligence System (Ongoing)
 
 AURA is a general-purpose, context-aware audio intelligence system designed to transform unstructured audio into structured, meaningful outputs.
 
@@ -44,7 +44,7 @@ This project focuses on real-world audio understanding across diverse contexts s
 
 ---
 
-### Mobile Photo Capture and Cloud Storage System
+### CloudSnap - Mobile Photo Capture and Cloud Storage System
 
 A mobile system designed for capturing photos and securely storing them in the cloud.
 
